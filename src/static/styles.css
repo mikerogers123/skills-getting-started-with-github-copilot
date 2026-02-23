@@ -86,6 +86,22 @@ section h3 {
   font-size: 14px;
 }
 
+.participants-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.delete-icon {
+  cursor: pointer;
+  color: #c62828;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.delete-icon:hover {
+  color: #b71c1c;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
